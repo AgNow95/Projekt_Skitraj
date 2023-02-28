@@ -19,9 +19,14 @@
 ![image](https://user-images.githubusercontent.com/123332957/221975498-90894358-ae91-4fa7-9fca-5bc9fb9c3cd9.png)
 
 ## Wymagania niefunkcjonalne
-1.Każdemu nowemu użytkownik wyświetlana jest akceptacja plików cookies. 
-2.Hasło do nowego konta musi zawierać 8 znaków w tym jedną wielką literę, cyfrę i znak specjalny
-3.Kolorystyka strony opiera się o kolor biały, odcień pomarańczy i czarny
-4.Regulamin serwisu zawiera się na dole strony 
-5.Linki do mediów zawarte są na dole strony w formie przycisków 
-6.Bot pod ikoną wiewóra Morcika jest dostępny na każdej stronie w prawym dolnym rogu
+Każdemu nowemu użytkownik wyświetlana jest akceptacja plików cookies. 
+
+Hasło do nowego konta musi zawierać 8 znaków w tym jedną wielką literę, cyfrę i znak specjalny
+
+Kolorystyka strony opiera się o kolor biały, odcień pomarańczy i czarny
+
+Regulamin serwisu zawiera się na dole strony 
+
+Linki do mediów zawarte są na dole strony w formie przycisków 
+
+Bot pod ikoną wiewóra Morcika jest dostępny na każdej stronie w prawym dolnym rogu
