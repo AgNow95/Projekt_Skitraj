@@ -1,1 +1,2 @@
-Welcome to the Projekt_Skitraj wiki!
+Projekt stworzony podczas kursu Tester Oprogramowania w szkole SDA. 
+Autor projektu: Agata Nowicka 
